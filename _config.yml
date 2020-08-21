@@ -1,7 +1,7 @@
 # Site settings
 title: RODIN code
 email: rodincode@gmail.com
-url: https://rodincode.bussiness.site
+url: https://rodincode.business.site
 description: "Online Py_coding classes for Math, Physics, Robotics, Data Science, Machine Learning & Deep Learning."
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,13 +14,13 @@ footer: rodincode
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/rodin_code
   - title: facebook
     url: http://www.facebook.com/Rodincode
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://stackoverflow.com/users/story/14141889
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://bitbucket.org/rodin_code/data-science/src/master/
   - title: github
     url: https://github.com/rodincode
 
