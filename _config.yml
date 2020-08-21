@@ -27,3 +27,12 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+#Map
+maps:
+  google:
+    api_key: AIzaSyCD2_Aw8KuhcackT3TfVQmd4eZ6a4bI3wY
+    
+location:
+  latitude: 51.5285582
+  longitude: -0.2416807
