@@ -1,29 +1,28 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+title: RODIN code
+email: rodincode@gmail.com
+url: https://rodincode.bussiness.site
+description: "RODIN (Robotics Data science artificial Intelligence Networks) promises you to give you quality Online Py_coding classes for Math, Physics, Robotics, Data Science, Machine Learning & Deep Learning. Our vision is to maintain a constant connection among our tutors and students in order to achieve better understanding and realisation of targeted objectives. Furthermore, as mentors we strive for learning, implementing numerous projects and exploring untouched domains in the advancing field of Artificial Intelligence."
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: rodincode
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: https://twitter.com/SBootstrap
   - title: facebook
-    url:
+    url: http://www.facebook.com/Rodincode
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/rodincode
 
 # Build settings
 markdown: kramdown
